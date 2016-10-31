@@ -26,7 +26,7 @@ HUSKIES AND REINDEERS
 
 Lapland offers Finland’s best rides – would you be prefer to be shown around by a pack of happy hounds or Santa’s reindeer? Both are great ways to explore the snowy surroundings. Husky and reindeer rides can take from a few minutes to days long safaris.
 
-[Great UCPA PLAN- 1995 €](http://www.ucpa-vacances.com/sejour/PAAKTTN10-aurore-boreale-aventure/participants/18/)
+[Great UCPA PLAN- 1995 €-瑞典 8day 7 night-all includ](http://www.ucpa-vacances.com/sejour/PAAKTTN10-aurore-boreale-aventure/participants/18/)
 
 ###Notes:
 
