@@ -1,63 +1,41 @@
-# nandomoreira.me jekyll theme
+# Finland trip
 
-### [Preview](http://nandomoreira.me/nandomoreira-jekyll-theme/)
+### [Tourist official site](http://www.visitfinland.com/zh/la_pu_lan/)
 
-## Setup
+## Period 2017/01/28-2017/02/15  --(01/27 Chuxi)
 
-### In the terminal run the commands
+##Destination-Laponie
+The thrill of witnessing the Aurora Borealis is a once-in-a-lifetime experience for many. Finland is one of the best places on Earth to spot the Northern Lights – they appear on more than 200 nights a year in Finnish Lapland.
 
-```
-$ sudo npm i -g gulp bower browser-sync
-$ sudo gem install bundler
-$ bundle install
-$ npm install
-```
+###罗瓦涅米（ROVANIEMI） / 拉努阿（RANUA）
+1 Père Noël-SANTA CLAUS
+Rovaniemi is the capital of Finnish Lapland and the hometown of Santa Claus. Located on the Arctic Circle, Rovaniemi provides modern services and lots of activities year round.
 
-## Using Rake tasks
 
-```
-$ rake post title="TITLE OF THE POST"
-$ rake page name="about.md"
-$ rake category title="Programing"
-$ rake tag title="Jekyll"
-```
+###YLLÄS  --SKI de fond
+[YLLAS](http://www.yllas.fi/en)
+Ylläs is a true wonderland in any season. Experience peace of mind, skiing cross country or on the slopes, culinary enjoyment, good company, fun and entertainment. It’s all arranged for you.
+![alt tag](http://www.yllas.fi/media/cache/web-kamerat_01-502x384.jpg)
 
-## Using Jekyll
+###SALLA
+[Salla](http://loma.salla.fi/en/)
+Salla – the place to breathe the fresh air and see the beauty of the wilderness. Here you can swim in a crystal-clear lake(no hot springs, we are not in iceland), walk in the white forest, feel the magic of the polar night and enjoy an open fire.
 
-### Running the server:
+###MUONIO / OLOS / PALLAS  --exploration of nature-forest
+HUSKIES AND REINDEERS
 
-```
-$ jekyll server
-```
+Lapland offers Finland’s best rides – would you be prefer to be shown around by a pack of happy hounds or Santa’s reindeer? Both are great ways to explore the snowy surroundings. Husky and reindeer rides can take from a few minutes to days long safaris.
 
-Access, [localhost:4000](http://localhost:4000/)
 
-## Using Gulp
-
-### Rum gulp
+###Notes:
 
 ```
-$ gulp
+code..
 ```
+
+
 
 ---
 
-## Deploy in Github pages in 2 steps
-
-1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in `Rakefile`
-2. Run `rake` or `rake publish` for build and publish on Github
-
----
-
-* [Jekyll](http://jekyllrb.com/);
-* [Jekyll Documentation](http://jekyllrb.com/docs/home/);
-* [Como definir URLs curtas no Jekyll](http://nandomoreira.me/urls-curtas-no-jekyll/);
-* [Adicionando Disqus ao seu projeto Jekyll](http://nandomoreira.me/adicionando-disqus-ao-seu-projeto-jekyll/);
-
----
-
-### Copyright and license
-
-It is under [the MIT license](/LICENSE).
 
 Enjoy! :yum:
