@@ -36,8 +36,11 @@ Yixuan-Yllas
 
 
 **Ylläs Aurora and Twilight**
+
 10pm-6am streets' lights will be turned off for our NORTHEN LIGHTS :milky_way:
+
 [Brochure](https://issuu.com/visityllas/docs/yllas_esite_2016-2017_100_en)
+
 The street lights will be turned off in Ylläs every evening at 10 p.m. starting 3rd of November 2016 until the mid February 2017. This will make it easier for you to see the Northern Lights. The Northern Lights can be seen in the northern part of the sky late in the evening, when the sky is clear. Along with Northern Lights, the stars, moon and snow illuminate the nights.
 
 Turning lights off will also help to reduce our Carbon Footprint in Pallas-Yllästunturi National Park.
