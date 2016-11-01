@@ -53,7 +53,7 @@ In Ylläs You can find various Northern Light activities, like snowshoeing, rein
 
 The Ylläs Aurora app tells you where the northern lights have been seen! All users of the app get a notification, when a user reports seeing northern lights in Ylläs. The Ylläs Aurora app is available on for iPhone, Android and Windows-phones with price of 2,99€.
 
-We wish you a memorable holiday in Ylläs!
+
 ---
 
 
