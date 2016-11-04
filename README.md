@@ -56,20 +56,20 @@ The Ylläs Aurora app tells you where the northern lights have been seen! All us
 
 
 PROGRAMME DE VOYAGE EN FONCTION DES JOURS
-1: Kittilä–Äkäslompolo
-Arrivée individuelle à Kittilä. Transfert à Äkäslompolo. Installez-vous confortablement.
-2: Äkäslompolo
-Journée libre à disposition.
-3: Top of Ylläs (35 km)
-Aujourd'hui, départ sur les Ylläs pour le restaurant le plus haut de la Finlande (718 m).
-4: Äkäslompolo
-Journée libre à disposition.
-5: Suède (95 km)
-Le tour de la journée vous conduit en Suède.
-6–7: 2 jours de safari (150 km)
-L'après-midi, vous vous mettez en route pour vous rendre à votre logement en pleine nature sauvage. Vous y trouverez un sauna que vous allumerez puis dégusterez un dîner aux chandelles.
-8: Äkäslompolo–Kittilä
-Voyage de retour ou prolongation individuelle.
+  1. Kittilä–Äkäslompolo
+  Arrivée individuelle à Kittilä. Transfert à Äkäslompolo. Installez-vous confortablement.
+  2. Äkäslompolo
+  Journée libre à disposition.
+  3. Top of Ylläs (35 km)
+  Aujourd'hui, départ sur les Ylläs pour le restaurant le plus haut de la Finlande (718 m).
+  4. Äkäslompolo
+  Journée libre à disposition.
+  5. Suède (95 km)
+  Le tour de la journée vous conduit en Suède.
+  6. -7 2 jours de safari (150 km)
+  L'après-midi, vous vous mettez en route pour vous rendre à votre logement en pleine nature sauvage. Vous y trouverez un sauna que vous   allumerez puis dégusterez un dîner aux chandelles.
+  8. Äkäslompolo–Kittilä
+  Voyage de retour ou prolongation individuelle.
 ---
 
 
