@@ -1,6 +1,7 @@
 # Finland trip
 
 ### [Tourist official site](http://www.visitfinland.com/zh/la_pu_lan/)
+![Filand plan](http://static2.visitfinland.com/wp-content/uploads/Illustrated-Map.jpg)
 
 ## Period 2017/01/28-2017/02/15  --(01/27 Chuxi)
 
