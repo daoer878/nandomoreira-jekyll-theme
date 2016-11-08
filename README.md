@@ -72,5 +72,32 @@ PROGRAMME DE VOYAGE EN FONCTION DES JOURS
   Voyage de retour ou prolongation individuelle.
 ---
 
+Durée : 7 Jours/6 nuits
+Départs les dimanches du 08 janvier au 02 avril 2017
+
+
+J1- (Dimanche) : Arrivée en Laponie
+Arrivée à l’aéroport de Kittilä en laponie finlandaise. Accueil et transfert jusqu’à l’auberge Tunturi (env. 30 minutes). Remise de votre équipement grand froid que vous pourrez garder pour toute la durée de votre séjour. Cocktail de bienvenue et dîner à l’auberge. 
+
+J2- (Lundi) : Excursion en traineau à chiens (2h30)
+Petit-déjeuner buffet. Matinée libre. Déjeuner libre puis départ en voiture (30 minutes env.) pour une ferme de chiens huskies. Rencontre avec le musher et ses chiens huskies sibériens. Après avoir reçu toutes les instructions de conduite, vous partirez pour une promenade de 10 km à travers les forêts et les lacs enneigés (2 personnes/attelage). Boissons chaudes et biscuits servis autour d’un feu de camp sous un kota. Puis, retour en voiture jusqu’à votre auberge. Diner à l’auberge. 
+
+J3- (Mardi) : Journée libre / Chasse aux aurores boréales en raquettes (3h)
+Petit-déjeuner. Journée libre. Déjeuner libre. Puis, après le diner, sortie en raquettes en forêt à la chasse aux aurores boréales (4 km env.). Boissons chaudes et Marshmallows servies autour d’un feu de camp. Puis, retour en milieu de soirée à l’auberge.
+
+J4- (Mercredi) : Visite de l’hotel des neiges de Lainio et ferme de rennes (4h)
+Petit-déjeuner. Aujourd’hui, vous partirez en véhicule avec votre guide anglophone jusqu’à l’hôtel des neiges de Lainio, hotel éphémère reconstruit chaque année. Visite guidée de l’hôtel des neiges (chambres, chapelle des neiges, bar de glace). Après la visite, marche pendant 10 minutes jusqu’à une ferme de rennes. Initiation à la conduite d’un traineau à renne. Boissons chaudes et biscuits autour sous un kota. Puis, retour en véhicule à l’auberge Tunturi. Déjeuner et après-midi libre. Diner à l’auberge. 
+
+J5- (Jeudi) : Pêche blanche (5h)
+Après le petit-déjeuner, départ pour une excursion en motoneige à travers les lacs gelés et les forêts enneigées. Initiation à la pêche blanche. Votre guide vous montrera les techniques de pêche au trou et vous pourrez ainsi profiter de cette expérience unique. Pendant ce temps, votre guide vous préparera un délicieux repas avec vos prises que vous dégusterez autour d’un feu de camp. Retour ensuite en ville en motoneige. Fin d’après-midi libre. Diner à l’auberge. 
+
+J6- (Vendredi) : Sortie en ski de forêt (6h)
+Après le petit-déjeuner, rendez-vous avec votre guide puis départ en ski de forêt à travers la nature immaculée (forêts, lacs gelés…) de la laponie. Sous un kota, un déjeuner local vous sera servi. Retour ensuite jusqu’à votre auberge. 
+
+J7- (Samedi) : Journée libre / Chasse aux aurores boréales en motoneige (2h30)
+Petit-déjeuner buffet. Journée libre. Après le diner, rendez-vous avec votre guide anglophone. Puis, après avoir reçu les instructions de sécurité, vous partirez en motoneige à travers les paysages boisés et enneigés de Laponie à la rencontre des aurores boréales. Boissons chaudes autour d’un feu de camp. Retour en milieu de soirée jusqu’à votre auberge. 
+
+J8- (Dimanche) : Retour de Kittilä
+Petit-déjeuner. A l’heure convenue, transfert jusqu’à l’aéroport de Kittilä.
 
 Enjoy! :yum:
