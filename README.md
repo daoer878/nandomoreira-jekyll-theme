@@ -1,5 +1,6 @@
 # Finland trip
-[other one's trip](http://www.mafengwo.cn/i/663220.html)
+- [other one's trip](http://www.mafengwo.cn/i/663220.html)
+- [what can we do](http://visitrovaniemi.fi/see-do/activities/)
 
 ### [Tourist official site](http://www.visitfinland.com/zh/la_pu_lan/)
 ![Filand plan](http://static2.visitfinland.com/wp-content/uploads/Illustrated-Map.jpg)
