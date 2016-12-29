@@ -1,3 +1,10 @@
+# Japan trip
+[Financial Garanteer pdf](https://github.com/daoer878/nandomoreira-jekyll-theme/blob/master/%E8%B5%84%E5%8A%A9%E5%A3%B0%E6%98%8E.pdf)
+[Financial Garanteer word](https://github.com/daoer878/nandomoreira-jekyll-theme/blob/master/%E8%B5%84%E5%8A%A9%E5%A3%B0%E6%98%8E.docx)
+
+
+
+
 # Finland trip
 - [other one's trip](http://www.mafengwo.cn/i/663220.html)
 - [what can we do](http://visitrovaniemi.fi/see-do/activities/)
