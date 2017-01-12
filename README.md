@@ -3,7 +3,10 @@
 - [Financial Garanteer word](https://github.com/daoer878/nandomoreira-jekyll-theme/blob/master/%E8%B5%84%E5%8A%A9%E5%A3%B0%E6%98%8E.docx)
 - [4days](https://github.com/daoer878/nandomoreira-jekyll-theme/blob/master/4.pdf)
 - [6days](https://github.com/daoer878/nandomoreira-jekyll-theme/blob/master/6.pdf)
-
+- [Time北斗1719](https://github.com/daoer878/nandomoreira-jekyll-theme/blob/master/Time%E5%8C%97%E6%96%971719.pdf)
+- [time小樽-札幌-新千岁](https://github.com/daoer878/nandomoreira-jekyll-theme/blob/master/time%E5%B0%8F%E6%A8%BD-%E6%9C%AD%E5%B9%8C-%E6%96%B0%E5%8D%83%E5%B2%81.pdf)
+- [chitose-carte](https://github.com/daoer878/nandomoreira-jekyll-theme/blob/master/chitose-carte.pdf)
+- [ski201612](https://github.com/daoer878/nandomoreira-jekyll-theme/blob/master/ski201612.pdf)
 
 
 
